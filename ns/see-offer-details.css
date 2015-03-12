@@ -1,0 +1,65 @@
+/* Offer Details Overlay */
+
+#see-offer-details {
+    color: #444;
+    background: #fff url(/images/homepage/04152014/shake_bg.png) no-repeat 0 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 159px;
+    margin-left: -200px;
+    height: 370px;
+    top: 170px!important;
+    position: absolute;
+    left: 883px!important;
+}
+
+#see-offer-details h3 {
+    font-size: 20px;
+    padding: 32px 24px 0 10px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#see-offer-details ul {
+    font-size: 15px;
+    list-style-type: disc;
+    width: 380px;
+    margin: 20px 10px 10px auto;
+}
+
+#see-offer-details h4, #see-offer-details p {
+    text-align: center;
+}
+
+#see-offer-details h4 {
+    font-size: 28px;
+    color: #ff6d01;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+#see-offer-details .ctaWrapper {
+    margin-top: 3px;
+}
+
+#see-offer-details h4 img {
+    position: relative;
+    top: 4px;
+}
+
+#see-offer-details sup {
+    font-size: xx-small;
+    vertical-align: super;
+}
+
+#see-offer-details .ns-disclaimer {
+    font: 11px/normal Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+#see-offer-details .ns-disclaimer div {
+    padding: 2px 0;
+}
+#see-offer-details .allplan {
+    display: none;
+}

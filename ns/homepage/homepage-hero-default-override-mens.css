@@ -1,0 +1,44 @@
+.ns-carousel h1 {
+    color: #4c4080;
+    font-family: "alwyn-new-web",Arial,Helvetica,sans-serif;
+    font-size: 44px;
+    font-weight: 500;
+    left: 20px;
+    letter-spacing: -0.2px;
+    line-height: 40px;
+    position: relative;
+    top: 34px;
+}
+.ns-carousel .fast-5-burst {
+    background: url("/images/homepage/hero/fast-5-burst.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 115px;
+    left: 525px;
+    padding: 14px 0 0 1px;
+    position: absolute;
+    top: 23px;
+    width: 117px;
+}
+.ns-carousel .fast-5-burst p.burst1 {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    text-transform: none;
+    letter-spacing: 1.25px;
+    line-height: 25px;
+}
+.main_cta {
+    background: url("/images/homepage/hero/hero-cta.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    bottom: 47px !important;
+    display: block;
+    height: 94px;
+    left: 115px;
+    position: absolute;
+    width: 314px;
+    z-index: 100;
+}
+.fast5logo {
+    background: url("/images/homepage/hero/fast5logo2.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 95px;
+    margin: -29px 0 5px 140px;
+    width: 230px;
+}

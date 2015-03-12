@@ -1,0 +1,65 @@
+.ns-carousel {
+	height:414px;width:1080px;position: relative;overflow: hidden;margin: 0 auto;
+}
+
+.ns-carousel .ns-pane-wrapper {position: absolute;}
+
+.ns-carousel .pane {float:left;height:414px;width:1080px;position: relative;}
+
+.ns-carousel .controls {
+	position: absolute; bottom: 10px; right: 80px;
+	background: #fff; 
+	-webkit-box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.25), 0px 0px 0px 3px rgba(255, 255, 255, 0.5);
+    box-shadow: inset 0px 0px 10px 0px rgba(0, 0, 0, 0.25), 0px 0px 0px 5px 3gba(255, 255, 255, 0.5);
+
+    -webkit-border-radius: 7px;
+	border-radius: 7px;
+	padding: 9px 20px 0;
+	height: 18px;
+	z-index:20;
+}
+
+.ns-carousel .controls a {
+	text-indent: -9999px;
+	display: inline-block;margin: 0 2px 5px;
+	background: #666666;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	height: 9px;width: 9px;
+}
+
+.ns-carousel .controls a.active,
+.ns-carousel .controls a:hover {
+	background: #ff6d01;
+}
+
+.ns-carousel .controls a.arrow {
+	text-indent: 0;
+	color: #fff;
+	-webkit-border-radius: 11px;
+	border-radius: 14px;
+	height: 14px;
+	width: 14px;
+	font-size: 18px;
+	font-weight: 600;
+	padding: 0px 0 0 0;
+	line-height: 11px;
+	text-align: center;
+	position: relative;
+	top: -4px;
+	margin-left: 5px;
+}
+
+.ns-carousel .controls a.arrow.prev {
+	padding-right: 2px;
+	width: 12px;
+	margin-left: 0px;
+	margin-right: 5px;
+}
+
+html.dj_ie7 .ns-carousel .controls a {
+	position:relative;top:-10px;
+}
+html.dj_ie7 .ns-carousel .controls a.arrow {
+	top:-4px;
+}

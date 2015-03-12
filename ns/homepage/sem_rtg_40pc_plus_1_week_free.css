@@ -1,0 +1,424 @@
+.banner-bg {
+    display: block;
+    height: 44px;
+    width: 940px;
+    color: #fff;
+    margin: 5px auto;
+    position: relative;
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    background: url("/images/homepage/banners/purple-promo-bar-bg.jpg")0 0 no-repeat;
+    text-transform: uppercase;
+}
+.banner-bg .promo {
+    font-weight: 500;
+    font-size: 19px;
+    letter-spacing: -.5px;
+    padding: 11px 0px 0px 190px;
+}
+.banner-bg .promo p {
+    margin: 0;
+}
+.banner-bg .promo p sup {
+    font-size: 9px;
+    position: relative;
+    top: -2px;
+}
+.banner-bg .promo p span {
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0px;
+}
+
+.slides_container {
+    background: none repeat scroll 0 0 #000;
+    border-top: none;
+    height: 541px;
+    margin-bottom: 20px;
+    position: relative;
+    width: 100%;
+}
+
+.slides_container.short.homepageDefault {
+    background: url(/images/homepage/10092014-holiday/bg-forty-grey.jpg) no-repeat top center;
+}
+
+.slides_container.short.homepageDefault.with_banner .pane_content {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    width: 58%;
+    position: relative;
+}
+
+.ns-carousel .ns-pane-wrapper {
+    position: static;
+    height: 375px!important;
+}
+
+.with_banner .ns-carousel .pane_content h2 {
+    padding: 28px 0 0;
+    font-family: "futura-pt", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 200;
+    color: #4f3a81;
+    line-height: 24px;
+}
+
+.with_banner .ns-carousel .pane_content h2 img {
+    margin: 0 auto;
+    display: block;
+    margin-top: -8px 55px;
+}
+.pane_content p.heading {
+    color: #ffffff;
+    font-size: 32px;
+    line-height: 65px;
+    height: 45px;
+    position: relative;
+    top: 22px;
+    left: 544px;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    padding: 0;
+}
+.pane_content p.heading-2 {
+    color: #ffffff;
+    font-size: 36px;
+    line-height: 28px;
+    height: 45px;
+    position: relative;
+    top: 30px;
+    left: 406px;
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    padding: 0;
+}
+.pane_content .offer-copy {
+    font-family: futura-pt, sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    left: 155px;
+    line-height: 26px;
+    position: relative;
+    top: 25px;
+    font-weight: 400;
+    text-align: center;
+}
+.pane_content .offer-copy span {
+    font-weight: 600;
+    font-size: 20px;
+}
+.pane_content .offer-copy sup {
+    font-size:8px;
+    position:relative;
+    top:-6px;
+}
+.ns-carousel .main_cta {
+    background: url(/images/homepage/10092014-holiday/cta-bg.png) no-repeat;
+    height: 118px;
+    width: 458px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    bottom: -27px;
+    left: 295px;
+}
+
+.main_cta h3 {
+    color: #fff;
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0;
+    width: 480px;
+    font-size: 18px;
+    top: 36px;
+    left: 110px;
+    position: relative;
+}
+
+.main_cta a.getStarted {
+    color: #fff;
+    display: block;
+    font-family: "futura-pt", sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 600;
+    height: 43px;
+    left: 165px;
+    top: 37px;
+    padding: 10px;
+    position: relative;
+    width: 200px;
+}
+
+.discl {
+    bottom: 20px;
+    font-size: 10px;
+    left: 137px;
+    position: absolute;
+    text-align: left;
+}
+
+.ns-popup {
+    font-family: "futura-pt", sans-serif;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 5px solid #6eb43f;
+    border-radius: 3px;
+    color: #4c4c4c;
+    width: 424px;
+    padding: 14px 0px 24px;
+}
+
+.ns-popup h3 {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0 auto;
+    font-family: "futura-pt", sans-serif;
+}
+
+.ns-popup .ctaWrapper {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.ns-popup a.cta_button {
+    background: url(/images/homepage/11272013/ctaBtnBg.png) repeat-x;
+    display: inline-block;
+    padding: 4px 10px;
+    width: auto;
+    margin: 5px;
+    color: #fff;
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 600;
+    -moz-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+#offerDetails {
+    background: #ffffff url(/images/homepage/09292014-Fast5-Dressing/ctaBtnBg.png) no-repeat;
+    background-position: 0 8px;
+    color: #444444;
+    margin-left: -248px;
+    margin-top: 8px;
+    padding-left: 300px;
+    width: 458px;
+    height: 354px;
+}
+
+#offerDetails h3 {
+    font-size: 20px;
+    padding: 10px 25px 0;
+    line-height: 25px;
+}
+
+#offerDetails ul {
+    font-size: 15px;
+    list-style-type: disc;
+    width: 370px;
+    margin: 10px auto;
+}
+
+#offerDetails h4, #offerDetails p {
+    padding: 0 25px;
+    text-align: left;
+}
+
+#offerDetails h4 {
+    font-size: 18px;
+    color: #ff6d01;
+    font-weight: 400;
+    padding-left: 25px;
+    margin-bottom: 10px;
+}
+
+#offerDetails h4 strong {
+    font-weight: 600
+}
+
+#offerDetails h4 img {
+    position: relative;
+    top: 4px;
+    left: 3px;
+}
+
+#offerDetails p {
+    font-size: 16px;
+}
+
+a#marieImg:hover {
+    text-decoration: none;
+}
+
+.banner .promo {
+    position: absolute;
+    top: 3px;
+    left: 193px;
+    font-size: 23px;
+    color: #fff;
+    font-family: "futura-pt", sans-serif
+}
+
+.banner .promo p img {
+    position: relative;
+    top: 6px;
+    left: 2px;
+}
+
+.banner .promo p sup {
+    font-size: .5em;
+    position: relative;
+    top: -10px;
+}
+
+.banner .promo p a.seeDetails {
+    background: url(/images/homepage/11272013/bannerSep.png) no-repeat;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 10px;
+    margin-left: 128px;
+}
+
+.banner .promo p a.seeDetails:hover {
+    text-decoration: none
+}
+
+.banner .promo p a.seeDetails {
+    top: -15px;
+}
+
+.banner .promo p a.seeDetails img {
+    top: 2px;
+}
+
+#HPbuild_plan.hide {
+    display: none;
+}
+
+sup {
+    position: relative;
+    font-size: 8px;
+    top: -9px;
+}
+
+#MarieImg {
+    position: absolute;
+    bottom: 0px;
+    right: 16px;
+    display: none;
+}
+
+a.transformation_toggle {
+    position: absolute;
+    color: #4f3a81;
+    top: 285px;
+    right: 480px;
+    width: 117px;
+    font-size: 14px;
+    text-align: center;
+    font-family: "futura-pt", sans-serif;
+    padding: 11px;
+}
+
+a.transformation_toggle:hover {
+    text-decoration: none;
+}
+
+.marie_transformation .close_transform {
+    color: #fff;
+    background: #478db7;
+    border: 0;
+    border-radius: 9px;
+    padding:  3px 5px 5px 5px;
+    line-height: 1em;
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 30px 0 0 15px;
+    line-height: 12px;
+    font-size: 12px;
+}
+
+.marie_transformation {
+    background: url(/images/homepage/10092014-holiday/erin-lost.png) no-repeat 0 0;
+    position: absolute;
+    height: 270px;
+    width: 402px;
+    right: 370px;
+    top: 130px;
+    display: none;
+    z-index: 100;
+}
+
+.marie_transformation_copy {
+    font-size: 10px;
+    position: absolute;
+    width: 221px;
+    right: 161px;
+    top: 142px;
+    z-index: 999;
+}
+
+.marie_transformation a {
+    display: block;
+    height: 100%;
+    S
+}
+
+.pane3 .quotes a blockquote {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 250px;
+    height: 192px;
+    background: url(/images/hp-redesign-2013/interim-hp/bubble.png) no-repeat;
+    display: none;
+}
+
+.pane3 .quotes a:hover blockquote {
+    display: block
+}
+
+.transformation blockquote p, .pane3 .quotes a blockquote p {
+    margin: 35px 0 0 10px;
+    font-family: "futura-pt", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #666;
+    width: 200px;
+}
+
+.transformation blockquote span, .pane3 .quotes a blockquote span {
+    font-size: 15px;
+    font-family: "futura-pt", sans-serif;
+    padding-left: 25px;
+    font-weight: 500;
+    color: #666;
+}
+
+.transformation blockquote span.cta, .pane3 .quotes a blockquote span.cta {
+    font-weight: bold;
+    color: #5093b9;
+    margin-top: 35px;
+    display: block;
+}
+
+
+h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+p {
+    padding: 0 0 10px 0;
+    margin: 0;
+}

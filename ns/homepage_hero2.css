@@ -1,0 +1,471 @@
+sup.small {
+    font-size:xx-small;
+    vertical-align:super;
+}
+
+.pane {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+}
+
+.slides_container.short.homepageDefault {
+    background: url(/images/homepage/04152014/carouselBg.jpg) no-repeat top center;
+}
+
+.slides_container.short.homepageDefault.with_banner .pane_content {
+    margin: 59px 0 0 30px;
+    width: 55%;
+}
+
+.with_banner .ns-carousel .pane_content h2 {
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #4d4b4d;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 35px;
+}
+
+.with_banner .ns-carousel .pane_content h2 img {
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+}
+
+.with_banner .ns-carousel .pane3 .pane_content h2 span {
+    padding-left: 55px;
+}
+
+.with_banner .ns-carousel .pane3 .pane_content h2 span.bigGreen {
+    padding-left: 11px;
+    color: #6eb43f;
+    font-size: 63px;
+    font-weight: 400;
+}
+
+.banner .promo {
+    position: absolute;
+    top: 12px;
+    left: 190px;
+    font-size: 19px;
+    color: #fff;
+    font-family: "futura-pt", sans-serif
+}
+
+.banner .promo p img {
+    position: relative;
+    top: 6px;
+}
+
+.banner .promo p sup {
+    font-size: .5em;
+    position: relative;
+    top: -10px;
+}
+
+.banner .promo p sup.hlf-sup {
+    font-size: 1em;
+    position: relative;
+    top: -5px;
+}
+
+.banner .promo p a.seeDetails {
+    background: url(/images/homepage/11272013/bannerSep.png) no-repeat;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px 10px;
+    margin-left: 140px;
+    position: relative;
+    top: -5px;
+}
+
+.banner .promo p a.seeDetails:hover {
+    text-decoration: none
+}
+
+.banner .promo p a.seeDetails img {
+    top: 2px;
+}
+
+#marieImg, #shakeImg, #danImg {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#marieImg {
+    bottom: -2px;
+    right: -5px;
+    right: 15px\9;
+}
+
+#shakeImg, #danImg {
+    right: 165px;
+    right: 180px\9;
+}
+
+.main_cta {
+    background: url(/images/homepage/04152014/mbgBg.png) no-repeat;
+    position: relative;
+    margin-top: 27px;
+    margin-left: 40px;
+}
+
+.main_cta h3 {
+    color: #fff;
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    padding: 22px 0 0 92px;
+    text-align: center;
+    width: 412px;
+    font-size: 18px;
+}
+
+.main_cta a {
+    display: block;
+    width: 220px;
+    height: 53px;
+    padding: 10px 0 0 27px;
+    position: relative;
+    left: 164px;
+    top: 4px;
+    background: url(/images/homepage/11272013/getStarted.png) no-repeat;
+    color: #fff;
+    font-family: "futura-pt", sans-serif;
+    font-style: normal;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.discl {
+    text-align: left;
+    position: absolute;
+    bottom: 5px;
+    font-size: .8em;
+    left: 75px;
+}
+
+/* Offer Details Overlay */
+
+#offerDetails {
+    color: #444;
+    background: #fff url(/images/homepage/04152014/shake_bg.png) no-repeat 0 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 159px;
+    margin-left: -200px;
+    height: 370px;
+}
+
+#offerDetails h3 {
+    font-size: 20px;
+    padding: 32px 24px 0 10px;
+    line-height: 20px;
+    text-align: left;
+}
+
+#offerDetails ul {
+    font-size: 15px;
+    list-style-type: disc;
+    width: 380px;
+    margin: 20px 10px 10px auto;
+}
+
+#offerDetails h4, #offerDetails p {
+    text-align: center;
+}
+
+#offerDetails h4 {
+    font-size: 28px;
+    color: #ff6d01;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+#offerDetails .ctaWrapper {
+    margin-top: 3px;
+}
+
+#offerDetails h4 strong {
+    font-weight: 600;
+}
+
+#offerDetails h4 img {
+    position: relative;
+    top: 4px;
+}
+
+#offerDetails p {
+    font-size: 16px;
+}
+
+#offerDetails sup {
+    font-size: xx-small;
+    vertical-align: super;
+}
+
+#offerDetails .ns-disclaimer {
+    font: 11px/normal Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+#offerDetails .ns-disclaimer div {
+    padding: 2px 0;
+}
+
+/* MOOWEB mobile */
+
+#mw_hidden_content {
+    display: none;
+}
+#mw_hidden_content a {
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+#mw_hidden_content .mw-promo {
+    position: absolute;
+    bottom: 8%;
+    left: 7%;
+    width: 50%;
+}
+#mw_hidden_content .mw-promo .mw-details {
+    position: absolute;
+    bottom: 52%;
+    left: 30%;
+    right: 30%;
+    width: 42%;
+    text-align: center;
+}
+#mw_hidden_content .mw-promo .mw-buttons {
+    position: absolute;
+    bottom: 4%;
+    left: 5%;
+    right: 5%;
+    width: 90%;
+    text-align: center;
+}
+#mw_hidden_content .mw-disclaimer {
+    position: absolute;
+    bottom: 2%;
+    left: 7%;
+    width: 50%;
+}
+#mw_hidden_content .mw-disclaimer p {
+    font: 15px "futura-pt", Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+a.transformation_toggle {
+    position: absolute;
+    top: 65px;
+    right: 98px;
+    width: 117px;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: "futura-pt", sans-serif;
+    background: -moz-radial-gradient(center, ellipse cover, rgba(255, 255, 255, .8) 20%, rgba(255, 255, 255, 0) 79%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 79%, color-stop(0%, rgba(255, 255, 255, 1)), color-stop(79%, rgba(255, 255, 255, 0))); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(255, 255, 255, .8) 20%, rgba(255, 255, 255, 0) 79%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover, rgba(255, 255, 255, .8) 20%, rgba(255, 255, 255, 0) 79%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover, rgba(255, 255, 255, .8) 20%, rgba(255, 255, 255, 0) 79%); /* IE10+ */
+    background: radial-gradient(ellipse at center, rgba(255, 255, 255, .8) 20%, rgba(255, 255, 255, 0) 79%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#00ffffff', GradientType=1); /* IE6-9 fallback on horizontal gradient */
+    padding: 11px;
+    border-radius: 20px;
+}
+
+a.transformation_toggle:hover {
+    text-decoration: none;
+}
+
+.pane4 .transformation_toggle {
+    right: 142px;
+}
+
+.marie_transformation .close_transform, .dan_transformation .close_transform {
+    color: #fff;
+    background: #478db7;
+    border: 0;
+    border-radius: 9px;
+    padding: 3px 5px;
+    line-height: 1em;
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 10px;
+    line-height: 1em;
+    font-size: 1em;
+}
+
+.marie_transformation {
+    background: url(/images/homepage/07092014/marie_transform.png) no-repeat 0 0;
+    position: absolute;
+    height: 270px;
+    width: 402px;
+    right: 392px;
+    top: 142px;
+    display: none;
+}
+
+.marie_transformation a, .dan_transformation a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    font-size: 0;
+    line-height: 0;
+    clip: rect(0, 0, 0, 0);
+}
+
+.dan_transformation {
+    background: url(/images/homepage/07182014/dan_transformation.png) no-repeat 0 0;
+    position: absolute;
+    height: 270px;
+    width: 402px;
+    right: 368px;
+    top: 99px;
+    display: none;
+}
+
+.pane3 .quotes a blockquote {
+    position: absolute;
+    top: 150px;
+    left: 0;
+    width: 250px;
+    height: 192px;
+    background: url(/images/hp-redesign-2013/interim-hp/bubble.png) no-repeat;
+    display: none;
+}
+
+.pane3 .quotes a:hover blockquote {
+    display: block
+}
+
+.transformation blockquote p, .pane3 .quotes a blockquote p {
+    margin: 35px 0 0 10px;
+    font-family: "futura-pt", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #666;
+    width: 200px;
+}
+
+.transformation blockquote span, .pane3 .quotes a blockquote span {
+    font-size: 15px;
+    font-family: "futura-pt", sans-serif;
+    padding-left: 25px;
+    font-weight: 500;
+    color: #666;
+}
+
+.transformation blockquote span.cta, .pane3 .quotes a blockquote span.cta {
+    font-weight: bold;
+    color: #5093b9;
+    margin-top: 35px;
+    display: block;
+}
+
+.weightClaim {
+    position: absolute;
+    width: 178px;
+    bottom: 29px;
+    right: 410px;
+    right: 440px\9;
+    font: 1.2em "futura-pt", sans-serif
+}
+
+.weightClaim .big {
+    font-size: 1.4em;
+    letter-spacing: -5px;
+    line-height: .8em;
+    margin-right: .25em;
+}
+
+.pane3 div.ladies {
+    background: url(/images/homepage/04152014/ladies.png) no-repeat;
+    position: absolute;
+    right: -5px;
+    right: 30px\9;
+    top: 25px;
+    bottom: 0;
+    display: block;
+    height: 400px;
+    width: 444px;
+}
+
+.pane3 .main_cta {
+    margin-top: 63px;
+}
+
+.pane3 .quotes a {
+    display: inline-block;
+    height: 100%;
+    width: 140px;
+    position: relative;
+}
+
+.pane3 .quotes a:hover {
+    text-decoration: none
+}
+
+.pane3 .quotes a blockquote {
+    z-index: 1;
+}
+
+.pane3 .quotes a blockquote p {
+    text-align: left;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 0
+}
+
+.pane3 .quotes a blockquote span {
+    margin-left: 0px;
+    padding-left: 0;
+    font-size: 20px;
+}
+
+.pane3 .quotes a blockquote span strong {
+    font-weight: 600;
+}
+
+.pane3 .quotes a blockquote span.cta {
+    font-size: 16px;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+.pane3 .quotes a#michelleQuote blockquote {
+    background-image: none;
+    top: 108px;
+    left: -92px;
+    padding: 14px 0 0 140px;
+}
+
+.pane3 .quotes a#ramonaQuote blockquote {
+    background-image: none;
+    top: 108px;
+    left: -319px;
+    padding: 14px 0 0 40px;
+}
+
+.pane3 .quotes a#kathyQuote blockquote {
+    background-image: none;
+    top: 108px;
+    left: -366px;
+    padding: 14px 0 0 40px;
+}
+
+.pane3 .quotes a#kathyQuote blockquote span.cta {
+    margin-top: 40px;
+}
+
+#HPbuild_plan.hide {
+    display: none;
+}

@@ -1,0 +1,18 @@
+.pnostrmsv30d-banner {
+    height: 44px;
+    width: 940px;
+    margin: auto;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-image: url("/images/homepage/08192014/homepage-promo-30-instantly.png");
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.marie-hero-text, .dan-hero-text {
+    text-align: center;
+}
+.hero-disclaimer {
+    display: none;
+}

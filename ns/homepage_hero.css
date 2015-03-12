@@ -1,0 +1,42 @@
+.ns-popup {
+	font-family: "futura-pt",sans-serif;
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 5px solid #6eb43f;
+	border-radius: 3px;
+	color: #4c4c4c;
+	width: 424px;
+	padding: 5px 0px 25px;
+}
+.ns-popup .close {
+	background: url(/images/hp-redesign-2013/interim-hp/btn_closebox.png) no-repeat;
+	right: -20px;
+	top: -20px;
+	height: 40px;
+	position: absolute;
+	width: 30px;
+	text-indent: -9999px;
+}
+
+.banner {
+	display: block;
+	height: 58px;
+	width: 940px;
+	position: absolute;
+	margin-left: 50%;
+	left:-470px;
+	z-index: 15;
+}
+
+.centered {display: block;margin:0 auto;}
+
+.slides_container.short.homepageDefault {margin-bottom:0px;}
+
+.with_banner .banner .promo p a {
+	background: url(/images/homepage/11272013/whiteCircleQuo.png) no-repeat center right;
+}
+
+.with_banner .banner .promo p a img {display: none;}
+
+#ns-carousel .ns-pane-wrapper .pane .main_cta {
+	position:absolute;bottom:50px;margin-top: 0;
+}

@@ -1,0 +1,563 @@
+/* top promotional banner *****/
+.promo-section {
+    background: none repeat scroll 0 0 #4c4080;
+    color: #fff;
+    display: block;
+    height: 44px;
+    margin: 0px auto;
+    position: relative;
+    width: 940px;
+}
+.promo-section .banner {
+    background: url("/images/diet_plans/ratecard/single_pane/fast-5-promo-logo.png") no-repeat scroll 630px -1px ;
+    position: relative;
+    z-index: 0;
+}
+.promo-section p {
+    color: #ffffff;
+    font-family: "futura-pt",Arial,Helvetica,sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 10px 0 10px 68px;
+}
+.promo-section a.see_offer_content {
+    background: url("/images/diet_plans/ratecard/single_pane/promo-see-offer-divider.jpg") no-repeat scroll 0 -14px;
+    color: #fff;
+    float: right;
+    font-family: "futura-pt",Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    height: 33px;
+    left: 20px;
+    padding-left: 50px;
+    position: relative;
+    text-decoration: none;
+    width: 150px;
+}
+#see-offer-details4 {
+color: #444;
+background: #fff url(/images/homepage/12092014/bg-fast5-plus.png) no-repeat 0 0;
+padding-top: 0;
+padding-bottom: 0;
+padding-left: 159px;
+height: 455px;
+bottom: -490px !important;
+position: absolute;
+right: 99px;
+border: 5px solid #6eb43f;
+width: 650px !important;
+}
+
+.close-tooltip {
+background: url(/images/hp-redesign-2013/interim-hp/btn_closebox.png) no-repeat;
+right: -20px;
+top: -20px;
+height: 40px;
+position: absolute;
+width: 30px;
+text-indent: -9999px;
+}
+#see-offer-details4 ul {
+font-size: 14px; 
+list-style-type: disc;
+width: 380px;
+margin: 20px 10px 10px auto;
+color: #4c4e52;
+font: 12px/17px Arial, Helvetica, sans-serif;
+}
+
+/*-------------------hero ----*/
+
+.ns-carousel {
+    height:430px;
+    width:940px;
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.ns-carousel .ns-pane-wrapper {
+    position: absolute;
+}
+.ns-carousel .pane {
+    float:left;
+    height:430px;
+    width:940px;
+    position: relative;
+}
+.ns-carousel .controls {
+    position: absolute;
+    bottom: 10px;
+    right: 19px;
+    background: #ffffff;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    padding: 6px 1px 1px 1px;
+    height: 14px;
+    z-index:20;
+}
+
+a.transformation-toggle {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #ffffff;
+    line-height: 19px;
+    text-align: left;
+    position: relative;
+    left: 28px;
+    top: 13px;
+    letter-spacing: .75px;
+}
+a.transformation-toggle:hover {
+    text-decoration: none;
+}
+a.transformation-toggle:hover {
+    text-decoration: none;
+}
+.ns-carousel, .ns-carousel .pane {
+    width: 940px;
+    height: 430px;
+}
+#mbg {
+    top: 90px;
+    left: 100px;
+    width: 200px;
+    display: none;
+}
+.ui-tooltip {
+    border: 1px solid #f1f1f1;
+    padding: 15px 15px 5px;
+    background-color: #FFF;
+    -webkit-box-shadow: 2px 2px 5px 0 rgba(148,148,148,1);
+    -moz-box-shadow: 2px 2px 5px 0 rgba(148,148,148,1);
+    box-shadow: 2px 2px 5px 0 rgba(148,148,148,1);
+    position: absolute;
+    z-index: 99999;
+    text-align: left;
+}
+.ui-tooltip .carrot-right {
+    position: absolute;
+    right: -19px;
+    top: 25px;
+}
+.ui-tooltip .carrot-bottom {
+    position: absolute;
+    bottom: -21px;
+    right: 25px;
+}
+.ui-tooltip .carrot-top {
+    position: absolute;
+    top: -21px;
+    right: 25px;
+}
+.ui-tooltip p {
+    color: #4c4e52;
+    font: 12px/17px Arial, Helvetica, sans-serif;
+}
+.ui-tooltip h4 {
+    color: #4c4e52;
+    font: bold 12px/17px Arial, Helvetica, sans-serif;
+    margin: 0 0 3px;
+}
+.ui-tooltip ul {
+    color: #4c4e52;
+    list-style-type: disc;
+    font: 12px/17px Arial, Helvetica, sans-serif;
+    padding: 0 0 10px;
+    margin: 0;
+}
+.ui-tooltip li {
+    margin: 0 0 3px 15px;
+    padding: 0;
+}
+.ui-tooltip p strong {
+    font-weight: bold;
+}
+.hero-slide-1 {
+    background-image: url("/images/homepage/hero/homepage-hero-marie.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.hero-slide-2 {
+    background-image: url("/images/homepage/hero/homepage-hero-lori.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.hero-slide-3 {
+    background-image: url("/images/homepage/hero/homepage-hero-dan.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.ns-carousel h1 {
+    font-family: "alwyn-new-web", Arial, Helvetica, sans-serif;
+    font-size: 46px;
+    font-weight: 500;
+    color: #4c4080;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    line-height: 40px;
+    letter-spacing: -.2px;
+}
+.ns-carousel h1 .hero-text-1 {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #555555;
+    text-transform: uppercase;
+}
+.ns-carousel h1 .hero-text-2 {
+    font-size: 30px;
+}
+.ns-carousel h2 {
+    font-family: "alwyn-new-web", Arial, Helvetica, sans-serif;
+    font-size: 46px;
+    font-weight: 500;
+    color: #4c4080;
+    position: relative;
+    top: 45px;
+    left: 110px;
+    line-height: 40px;
+    letter-spacing: -.2px;
+}
+.ns-carousel h2 sup {
+    font-size: 20px;
+    vertical-align: super;
+}
+.ns-carousel .hero-content-container {
+    position: relative;
+    top: 65px;
+    left: 20px;
+}
+.ns-carousel .hero-content-container p {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #555555;
+    line-height: 26px;
+    font-weight: 400;
+}
+.ns-carousel .hero-content-container ul {
+    float: left;
+    margin: 0 23px;
+}
+.ns-carousel .hero-content-container li {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    list-style: outside url("/images/diet_plans/ratecard/single_pane/checks-purple.png") disc;
+    font-size: 16px;
+    line-height: 26px;
+}
+.ns-carousel .hero-content-container li strong {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+.ns-carousel .fast-5-burst {
+    position: absolute;
+    top: 23px;
+    left: 525px;
+    background: url("/images/homepage/hero/fast-5-burst.png") 0 0 no-repeat;
+    width: 117px;
+    height: 115px;
+    padding: 20px 0 0 2px;
+}
+.ns-carousel .fast-5-burst p {
+    color: #ffffff;
+    padding: 2px 0;
+    text-align: center;
+}
+.ns-carousel .fast-5-burst p.burst1 {
+    font-family: "futura-pt", Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: .75px;
+}
+.ns-carousel .fast-5-burst p.burst2 {
+    font-family: "alwyn-new-web", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: lowercase;
+}
+.ns-carousel .main_cta {
+	background: url('/images/homepage/hero/hero-cta.png') no-repeat;
+	width: 314px;
+	height: 94px;
+	position: absolute;
+	display: block;
+	z-index: 100;
+	left: 150px;
+	top: 285px;
+
+}
+.ns-carousel .main_cta:hover {
+    background: url('/images/homepage/hero/hero-cta.png') no-repeat;
+}
+.ns-carousel .main_cta a.getStarted {
+    position: relative;
+    left: 98px;
+    top: 26px;
+    color: #fff;
+    font-family: "alwyn-new-web", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    text-transform: lowercase;
+    text-decoration: none;
+}
+
+.hero-disclaimer {
+    color: #777777;
+	font-size: 10px;
+	text-align: left;
+	position: absolute;
+	left: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 0;
+	top: 407px;
+}
+.hero-disclaimer a {
+    text-decoration: underline;
+}
+.transformation-wrapper {
+    background: url("/images/homepage/hero/transformation-burst-purple.png") 0 0 no-repeat;
+    position: absolute;
+    bottom: 39px;
+    right: 0px;
+    z-index: 10;
+    width: 179px;
+    height: 63px;
+}
+.ns-carousel .controls a.arrow.prev {
+    margin-left: 1px;
+    margin-right: 3px;
+    padding-right: 2px;
+    width: 12px;
+}
+.slides_container.short.homepageDefault {
+    background: none;
+    height: 430px;
+    border-top: none;
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+.marie-transformation {
+    display: none;
+    position: absolute;
+    right: 314px;
+    top: 1px;
+    z-index: 200;
+}
+.marie-transformation  {
+    background: url('/images/homepage/hero/marie-transformation.png') 0 0 no-repeat ;
+    width: 275px;
+    height: 431px;
+    display: none;
+    position: absolute;
+    right: 314px;
+    top: 1px;
+    z-index: 200;
+}
+.marie-transformation .transformation-info {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    top: 265px;
+    padding: 15px;
+    width: 200px;
+    left: 15px;
+}
+.marie-transformation h6 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    left: 55px;
+    position: absolute;
+    top: 288px;
+    text-align: center;
+}
+.marie-transformation .transformation-disclaimer {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    left: 25px;
+    position: absolute;
+    top: 320px;
+    width: 212px;
+    text-align: center;
+}
+
+.lori-transformation {
+    display: none;
+    position: absolute;
+    right: 314px;
+    top: 1px;
+    z-index: 200;
+    background: url('/images/homepage/hero/lori-transformation.png') 0 0 no-repeat;
+    width: 275px;
+    height: 431px;
+}
+.lori-transformation .transformation-info {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    top: 285px;
+    padding: 15px;
+    width: 200px;
+    left: 15px;
+}
+.lori-transformation h6{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    left: 88px;
+    position: absolute;
+    top: 300px;
+}
+.lori-transformation .transformation-disclaimer {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    left: 25px;
+    position: absolute;
+    top: 320px;
+    width: 212px;
+    text-align: center;
+}
+
+.dan-transformation {
+    position: absolute;
+    right: 314px;
+    top: 1px;
+    display: none;
+    z-index: 200;
+    background: url('/images/homepage/hero/dan-transformation.png') no-repeat 0 0;
+    width: 275px;
+    height: 431px;
+}
+.dan-transformation .transformation-info {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    text-align: center;
+    position: absolute;
+    top: 280px;
+    padding: 15px;
+    width: 202px;
+    left: 15px;
+}
+.dan-transformation h6 {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    left: 64px;
+    position: absolute;
+    top: 300px;
+    text-align: center;
+}
+.dan-transformation .transformation-disclaimer {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    left: 25px;
+    position: absolute;
+    top: 320px;
+    width: 212px;
+    text-align: center;
+}
+
+a.close-transform {
+    background: url('/images/homepage/hero/close-transform.png') 0 0 no-repeat;
+    display: block;
+    height: 17px;
+    width: 20px;
+    position: absolute;
+    right: 31px;
+    top: 15px;
+}
+
+h3#overlay {
+font-size: 20px;
+padding: 32px 24px 0 10px;
+text-align: left;
+font-weight: 400;
+margin: 0 auto;
+font-family: "futura-pt", sans-serif;
+}
+
+.plus-copy{
+font-size: 23px;
+color: #4c4080;
+text-align: center;
+position: relative;
+left: 57px;
+top: -7px;
+}
+
+#see-offer-detailes4 ul#overlay1{
+	font-size: 14px;
+	list-style-type: disc;
+	width: 380px;
+	margin: 20px 10px 10px auto;
+}
+
+  .btn-big-get-started {
+        background: url(/images/homepage/12092014/btn-get-started-overlay.png) no-repeat;
+        _background: url(http://preview.nutrisystem.com/images/global/blank.gif);
+        width: 233px;
+        height: 60px;
+        line-height: 40px;
+        position: relative;
+        cursor: pointer;
+        left: 230px;
+        top: 10px;
+        margin-bottom: 10px;
+    }
+
+
+
+@media screen and (max-width: 1400px) {
+    #ns-hero-container {
+        padding: 0;
+    }
+    .ns-carousel, .ns-carousel .pane {
+        width: 940px;
+        height: 430px;
+    }
+    .hero-slide-1 {
+        background: url("/images/homepage/hero/homepage-hero-marie.jpg") 0 0 no-repeat;
+    }
+    .hero-slide-2 {
+        background: url("/images/homepage/hero/homepage-hero-lori.jpg") 0 0 no-repeat;
+    }
+    .ns-carousel h2.marie-hero-text {
+        display: none;
+    }
+    .ns-carousel h2.dan-hero-text {
+        display: none;
+    }
+    .ns-carousel .main_cta {
+        left: 115px;
+        bottom: 56px;
+    }
+    .hero-disclaimer {
+        left: 10px;
+        bottom: 10px;
+    }
+    .hero-slide-1 .tt-wrapper {
+        display: none;
+    }
+    .hero-slide-2 .tt-wrapper {
+        display: none;
+    }
+    .ns-carousel .controls {
+        right: 19px;
+    }
+    .dan-transformation {
+        left: 240px;
+    }
+    .marie-transformation {
+        left: 240px;
+    }
+    #mainHeroCtaPop {
+        left: 35%!important;
+    }
+}

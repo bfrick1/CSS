@@ -1,0 +1,52 @@
+@media screen and (max-width: 1400px) {
+    #ns-hero-container {
+        padding: 0;
+    }
+    .ns-carousel, .ns-carousel .pane {
+        width: 940px;
+        height: 476px;
+    }
+    .hero-slide-1 {
+        background: url("/images/homepage/08192014/marie-hero-nopromo-940.png") 0 0 no-repeat;
+    }
+    .hero-slide-2 {
+        background: url("/images/homepage/08192014/dan-hero-nopromo-940.png") 0 0 no-repeat;
+    }
+    .ns-carousel h2.marie-hero-text {
+        left: 52px;
+    }
+    .ns-carousel h2.dan-hero-text {
+        left: 44px;
+    }
+    .ns-carousel .main_cta {
+        left: 88px;
+        bottom: 80px;
+    }
+    .hero-disclaimer {
+        left: 25px;
+        bottom: 5px;
+    }
+    .hero-slide-1 .tt-wrapper {
+        right: 67px;
+        bottom: 50px;
+    }
+    .hero-slide-2 .tt-wrapper {
+        right: 47px;
+        bottom: 51px;
+    }
+    .ns-carousel .controls {
+        right: 40px;
+    }
+    .dan-transformation {
+        left: 240px;
+    }
+    .marie-transformation {
+        left: 240px;
+    }
+    #mainHeroCtaPop {
+        left: 35%!important;
+    }
+
+
+
+}
